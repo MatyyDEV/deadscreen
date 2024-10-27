@@ -1,10 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Tvoje Jméno'
-description 'Dead screen s odpočtem a respawnem'
-version '1.0.0'
+author 'Matyy'
+description 'Jednoduchý DeadScreen skript s odpočtem do respawnu'
+version '1.2.0'
 
-client_scripts {
-    'client.lua'
-}
+client_script 'client.lua'
